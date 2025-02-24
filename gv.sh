@@ -48,12 +48,20 @@ echo '      type: tcp' >> config.yaml
 echo 'resolvers:' >> config.yaml
 echo '  - name: resolver-0' >> config.yaml
 echo '    nameservers:' >> config.yaml
-echo '      - addr: tls://1.1.1.1:853' >> config.yaml
+echo '      - addr: tls://8.8.8.8:853' >> config.yaml
 echo '        prefer: ipv4' >> config.yaml
 echo '        ttl: 5m0s' >> config.yaml
 echo '        async: true' >> config.yaml
-echo '      - addr: tls://1.0.0.1:853' >> config.yaml
+echo '      - addr: tls://8.8.4.4:853' >> config.yaml
 echo '        prefer: ipv4' >> config.yaml
+echo '        ttl: 5m0s' >> config.yaml
+echo '        async: true' >> config.yaml
+echo '      - addr: tls://[2001:4860:4860::8888]:853' >> config.yaml
+echo '        prefer: ipv6' >> config.yaml
+echo '        ttl: 5m0s' >> config.yaml
+echo '        async: true' >> config.yaml
+echo '      - addr: tls://[2001:4860:4860::8844]:853' >> config.yaml
+echo '        prefer: ipv6' >> config.yaml
 echo '        ttl: 5m0s' >> config.yaml
 echo '        async: true' >> config.yaml
 cd /data/data/com.termux/files/usr/etc/profile.d
