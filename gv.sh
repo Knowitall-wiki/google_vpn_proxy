@@ -79,7 +79,7 @@ exit
 }
 uninstall(){
 screen -ls | grep Detached | cut -d. -f1 | awk '{print $1}' | xargs kill
-rm -f gost config.yaml
+rm -f gost config.yaml gv.sh
 echo "卸载完毕"
 }
 show_menu(){
