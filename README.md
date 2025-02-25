@@ -21,7 +21,9 @@ pkg upgrade -y && bash <(curl -Ls https://gh-proxy.com/https://raw.githubusercon
 3、输入命令 ```exit``` 才可退出共享代理
 
 --------------------------------------------------
-### 视频教程：
+### 教程：
+
+博客说明：https://ygkkk.blogspot.com/2025/02/pixelgooglevpn.html
 
 Google pixel手机及VPN使用心得[视频教程系列](https://www.youtube.com/playlist?list=PLMgly2AulGG_wlFVKqKmr6_8RQYG5UgI6)
 
