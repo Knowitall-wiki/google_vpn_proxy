@@ -30,14 +30,10 @@ Google pixel手机及VPN使用心得[视频教程系列](https://www.youtube.com
 [最新！永久免费的Google VPN教程（五）：解决前置代理引导Google VPN报错问题，一键脚本支持socks+http共享Google VPN到局域网](https://youtu.be/Wt7c-4pnLCg)
 
 -----------------------------------------------------
-
-## 脚本不限于Google VPN，其他代理客户端也可享受局域网共享代理功能
-
------------------------------------------------------
 ### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
 
 --------------------------------------------------------
-### 微信打赏甬哥侃侃侃ygkkk
+### 感谢支持！微信打赏甬哥侃侃侃ygkkk
 ![41440820a366deeb8109db5610313a1](https://github.com/user-attachments/assets/551cc2e1-a55a-444b-9c9c-2419ee5f14df)
 
 --------------------------------------------------------
