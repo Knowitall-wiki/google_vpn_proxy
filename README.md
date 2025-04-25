@@ -37,6 +37,10 @@ Google pixel手机及VPN使用心得[视频教程系列](https://www.youtube.com
 ### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
 
 --------------------------------------------------------
+### 微信打赏甬哥侃侃侃ygkkk
+![41440820a366deeb8109db5610313a1](https://github.com/user-attachments/assets/551cc2e1-a55a-444b-9c9c-2419ee5f14df)
+
+--------------------------------------------------------
 
 ### 感谢你右上角的star🌟
 [![Stargazers over time](https://starchart.cc/yonggekkk/google_vpn_proxy.svg)](https://starchart.cc/yonggekkk/google_vpn_proxy)
